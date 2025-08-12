@@ -9,7 +9,7 @@
             <trans-unit id="tx_cart.plugin.cart_cart">
                 <source>Cart: Cart</source>
             </trans-unit>
-            <trans-unit id="tx_cart.plugin.cart_currency">
+            <trans-unit id="tx_cart.plugin.cart_currency">target
                 <source>Cart: Currency Selector</source>
             </trans-unit>
             <trans-unit id="tx_cart.plugin.cart_order">
@@ -374,11 +374,9 @@
             </trans-unit>
             <trans-unit id="tx_cart_domain_model_order_shipping.palettes.service">
                 <source>Service TypoScript Configuration</source>
-                <target>Service TypoScript Konfiguration</target>
             </trans-unit>
             <trans-unit id="tx_cart_domain_model_order_shipping.service_country">
                 <source>Service Country</source>
-                <target>Service Land</target>
             </trans-unit>
             <trans-unit id="tx_cart_domain_model_order_shipping.service_id">
                 <source>Service ID</source>
